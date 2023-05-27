@@ -1,0 +1,1 @@
+A console application in C++ that solves any type of equation entered. The calculator can solve equations involving addition, subtraction, multiplication, division, exponentiation, and square roots. It also verifies the correctness of the entered equation, taking into account parentheses, division by zero, and any other invalid characters.
